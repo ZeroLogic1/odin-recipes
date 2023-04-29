@@ -1,0 +1,22 @@
+h1 {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    background-color: brown;
+    text-align: center;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.subhead {
+    font-weight: bold;
+    color: aqua;
+    background-color: chocolate;
+    font-style: italic;
+}
+
+.offwhite {
+    background-color: antiquewhite;
+}
